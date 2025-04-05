@@ -1,0 +1,501 @@
+ID Venda,Data Compra,Produto,Categoria,Preço,Quantidade,Nome Cliente,Idade Cliente,Sexo Cliente
+1,2024-04-01,Smartphone Samsung,Eletrônicos,2500,5,Roberta Santos,53,Feminino
+2,2024-08-11,Notebook Dell,Eletrônicos,4500,1,Vanessa Oliveira,36,Masculino
+3,2024-06-11,Notebook Dell,Eletrônicos,4500,1,Paulo Mendes,57,Masculino
+4,2024-02-28,Smartphone Samsung,Eletrônicos,2500,2,Thiago Pereira,26,Feminino
+5,2024-07-23,Monitor 27'',Eletrônicos,1800,1,José Silva,60,Feminino
+6,2024-10-01,Fone de Ouvido JBL,Acessórios,200,1,Carlos Lima,50,Masculino
+7,2024-02-09,Smart TV LG,Eletrônicos,3200,3,Wilson Rodrigues,56,Masculino
+8,2024-12-06,Mochila Nike,Moda,150,5,Fernanda Alves,46,Masculino
+9,2024-03-18,Tênis Adidas,Moda,300,5,Fernanda Alves,56,Masculino
+10,2024-03-23,Teclado Mecânico,Acessórios,350,4,Carlos Lima,26,Masculino
+11,2024-06-24,Smartphone Samsung,Eletrônicos,2500,1,Wilson Rodrigues,24,Masculino
+12,2024-07-12,Teclado Mecânico,Acessórios,350,3,Thiago Pereira,27,Feminino
+13,2024-11-02,Mochila Nike,Moda,150,5,Carlos Lima,39,Masculino
+14,2024-09-12,Smartphone Samsung,Eletrônicos,2500,3,Roberta Santos,47,Feminino
+15,2024-08-09,Notebook Dell,Eletrônicos,4500,4,Vanessa Oliveira,44,Feminino
+16,2024-07-15,Cadeira Gamer,Móveis,1200,3,Thiago Pereira,43,Masculino
+17,2024-04-05,Mochila Nike,Moda,150,5,Carlos Lima,50,Masculino
+18,2024-02-09,Tênis Adidas,Moda,300,5,Ana Souza,60,Feminino
+19,2024-04-04,Smartphone Samsung,Eletrônicos,2500,2,Roberta Santos,39,Feminino
+20,2024-11-21,Fone de Ouvido JBL,Acessórios,200,3,Fernanda Alves,55,Feminino
+21,2024-01-24,Smartphone Samsung,Eletrônicos,2500,1,Roberta Santos,21,Masculino
+22,2024-02-23,Cadeira Gamer,Móveis,1200,3,Fernanda Alves,57,Feminino
+23,2024-01-02,Smart TV LG,Eletrônicos,3200,2,Carlos Lima,37,Masculino
+24,2024-05-31,Smartphone Samsung,Eletrônicos,2500,4,Wilson Rodrigues,28,Feminino
+25,2024-04-01,Mochila Nike,Moda,150,3,Carlos Lima,38,Masculino
+26,2024-10-28,Teclado Mecânico,Acessórios,350,5,Wilson Rodrigues,34,Masculino
+27,2024-10-02,Notebook Dell,Eletrônicos,4500,5,Mariana Costa,53,Masculino
+28,2024-09-14,Monitor 27'',Eletrônicos,1800,5,Fernanda Alves,59,Masculino
+29,2024-11-10,Fone de Ouvido JBL,Acessórios,200,5,José Silva,30,Feminino
+30,2024-03-11,Smartphone Samsung,Eletrônicos,2500,4,Mariana Costa,41,Feminino
+31,2024-06-01,Smartphone Samsung,Eletrônicos,2500,4,Roberta Santos,27,Masculino
+32,2024-03-14,Tênis Adidas,Moda,300,4,Carlos Lima,57,Feminino
+33,2024-06-29,Monitor 27'',Eletrônicos,1800,1,Paulo Mendes,47,Feminino
+34,2024-03-04,Smart TV LG,Eletrônicos,3200,2,Vanessa Oliveira,35,Feminino
+35,2024-05-12,Tênis Adidas,Moda,300,2,Fernanda Alves,28,Feminino
+36,2024-09-29,Monitor 27'',Eletrônicos,1800,4,Roberta Santos,19,Masculino
+37,2024-01-04,Relógio Casio,Acessórios,180,3,Paulo Mendes,51,Feminino
+38,2024-07-03,Notebook Dell,Eletrônicos,4500,5,Mariana Costa,48,Masculino
+39,2024-11-19,Monitor 27'',Eletrônicos,1800,2,Thiago Pereira,35,Feminino
+40,2024-01-13,Notebook Dell,Eletrônicos,4500,3,Fernanda Alves,44,Masculino
+41,2024-04-06,Smartphone Samsung,Eletrônicos,2500,4,Vanessa Oliveira,35,Feminino
+42,2024-07-13,Tênis Adidas,Moda,300,2,Ana Souza,33,Masculino
+43,2024-11-14,Fone de Ouvido JBL,Acessórios,200,5,Paulo Mendes,35,Masculino
+44,2024-07-01,Mochila Nike,Moda,150,4,José Silva,36,Masculino
+45,2024-07-03,Teclado Mecânico,Acessórios,350,3,Wilson Rodrigues,54,Masculino
+46,2024-01-23,Notebook Dell,Eletrônicos,4500,5,Fernanda Alves,27,Feminino
+47,2024-01-08,Cadeira Gamer,Móveis,1200,5,Ana Souza,55,Masculino
+48,2024-05-27,Teclado Mecânico,Acessórios,350,1,Roberta Santos,39,Feminino
+49,2024-12-28,Smart TV LG,Eletrônicos,3200,2,Paulo Mendes,42,Feminino
+50,2024-12-25,Tênis Adidas,Moda,300,4,Fernanda Alves,59,Masculino
+51,2024-05-24,Fone de Ouvido JBL,Acessórios,200,3,Wilson Rodrigues,25,Feminino
+52,2024-04-04,Smart TV LG,Eletrônicos,3200,2,José Silva,28,Feminino
+53,2024-05-21,Tênis Adidas,Moda,300,4,Fernanda Alves,35,Masculino
+54,2024-09-09,Cadeira Gamer,Móveis,1200,5,Mariana Costa,38,Masculino
+55,2024-12-07,Notebook Dell,Eletrônicos,4500,4,Mariana Costa,34,Feminino
+56,2024-04-09,Relógio Casio,Acessórios,180,4,Mariana Costa,33,Masculino
+57,2024-08-11,Monitor 27'',Eletrônicos,1800,4,Roberta Santos,55,Feminino
+58,2024-12-30,Relógio Casio,Acessórios,180,3,José Silva,35,Feminino
+59,2024-01-30,Monitor 27'',Eletrônicos,1800,3,José Silva,50,Feminino
+60,2024-01-09,Monitor 27'',Eletrônicos,1800,5,Thiago Pereira,45,Masculino
+61,2024-07-07,Cadeira Gamer,Móveis,1200,2,Carlos Lima,42,Masculino
+62,2024-03-23,Cadeira Gamer,Móveis,1200,5,José Silva,58,Masculino
+63,2024-05-08,Monitor 27'',Eletrônicos,1800,2,Wilson Rodrigues,18,Feminino
+64,2024-02-21,Smartphone Samsung,Eletrônicos,2500,5,Ana Souza,48,Feminino
+65,2024-04-26,Tênis Adidas,Moda,300,4,José Silva,40,Feminino
+66,2024-09-23,Teclado Mecânico,Acessórios,350,2,Wilson Rodrigues,51,Masculino
+67,2024-05-25,Teclado Mecânico,Acessórios,350,5,Wilson Rodrigues,57,Feminino
+68,2024-12-06,Relógio Casio,Acessórios,180,2,José Silva,32,Feminino
+69,2024-07-30,Teclado Mecânico,Acessórios,350,2,Mariana Costa,36,Feminino
+70,2024-11-08,Monitor 27'',Eletrônicos,1800,5,Fernanda Alves,28,Masculino
+71,2024-09-13,Fone de Ouvido JBL,Acessórios,200,4,Thiago Pereira,29,Feminino
+72,2024-12-13,Tênis Adidas,Moda,300,5,Fernanda Alves,30,Feminino
+73,2024-05-01,Smartphone Samsung,Eletrônicos,2500,1,Vanessa Oliveira,55,Masculino
+74,2024-11-26,Monitor 27'',Eletrônicos,1800,5,Carlos Lima,33,Masculino
+75,2024-10-31,Monitor 27'',Eletrônicos,1800,4,Thiago Pereira,47,Feminino
+76,2024-04-30,Smartphone Samsung,Eletrônicos,2500,5,José Silva,57,Masculino
+77,2024-10-26,Smart TV LG,Eletrônicos,3200,1,Roberta Santos,55,Masculino
+78,2024-10-27,Fone de Ouvido JBL,Acessórios,200,1,Mariana Costa,52,Masculino
+79,2024-08-24,Monitor 27'',Eletrônicos,1800,4,Roberta Santos,27,Masculino
+80,2024-02-16,Smartphone Samsung,Eletrônicos,2500,2,Fernanda Alves,50,Masculino
+81,2024-04-18,Tênis Adidas,Moda,300,1,José Silva,34,Feminino
+82,2024-03-12,Monitor 27'',Eletrônicos,1800,2,Wilson Rodrigues,56,Feminino
+83,2024-06-22,Mochila Nike,Moda,150,1,Thiago Pereira,46,Masculino
+84,2024-07-30,Relógio Casio,Acessórios,180,4,Paulo Mendes,38,Feminino
+85,2024-06-13,Cadeira Gamer,Móveis,1200,2,Vanessa Oliveira,33,Feminino
+86,2024-03-16,Tênis Adidas,Moda,300,3,Ana Souza,48,Feminino
+87,2024-07-14,Smartphone Samsung,Eletrônicos,2500,4,Thiago Pereira,60,Masculino
+88,2024-04-04,Teclado Mecânico,Acessórios,350,4,Thiago Pereira,59,Feminino
+89,2024-02-08,Mochila Nike,Moda,150,3,Ana Souza,52,Feminino
+90,2024-08-29,Relógio Casio,Acessórios,180,1,Wilson Rodrigues,48,Masculino
+91,2024-02-22,Teclado Mecânico,Acessórios,350,3,José Silva,24,Masculino
+92,2024-05-06,Notebook Dell,Eletrônicos,4500,3,José Silva,55,Feminino
+93,2024-12-25,Cadeira Gamer,Móveis,1200,2,Fernanda Alves,60,Masculino
+94,2024-05-13,Tênis Adidas,Moda,300,3,Carlos Lima,57,Feminino
+95,2024-07-16,Cadeira Gamer,Móveis,1200,4,Ana Souza,35,Masculino
+96,2024-07-26,Monitor 27'',Eletrônicos,1800,3,Fernanda Alves,43,Feminino
+97,2024-07-20,Tênis Adidas,Moda,300,5,Carlos Lima,20,Feminino
+98,2024-07-12,Smart TV LG,Eletrônicos,3200,2,Ana Souza,18,Feminino
+99,2024-07-19,Smart TV LG,Eletrônicos,3200,2,Mariana Costa,40,Masculino
+100,2024-04-14,Tênis Adidas,Moda,300,3,Paulo Mendes,53,Feminino
+101,2024-05-28,Relógio Casio,Acessórios,180,3,Thiago Pereira,36,Masculino
+102,2024-07-13,Notebook Dell,Eletrônicos,4500,1,Roberta Santos,39,Feminino
+103,2024-10-16,Teclado Mecânico,Acessórios,350,3,Vanessa Oliveira,30,Masculino
+104,2024-12-17,Fone de Ouvido JBL,Acessórios,200,5,Fernanda Alves,45,Feminino
+105,2024-06-03,Relógio Casio,Acessórios,180,2,Ana Souza,52,Masculino
+106,2024-12-21,Smart TV LG,Eletrônicos,3200,2,Roberta Santos,20,Masculino
+107,2024-09-23,Fone de Ouvido JBL,Acessórios,200,2,Carlos Lima,32,Feminino
+108,2024-04-10,Tênis Adidas,Moda,300,1,Fernanda Alves,28,Feminino
+109,2024-01-28,Smartphone Samsung,Eletrônicos,2500,2,José Silva,59,Feminino
+110,2024-01-08,Tênis Adidas,Moda,300,3,Vanessa Oliveira,24,Feminino
+111,2024-12-20,Monitor 27'',Eletrônicos,1800,3,Ana Souza,35,Feminino
+112,2024-12-04,Teclado Mecânico,Acessórios,350,2,Ana Souza,23,Masculino
+113,2024-03-14,Monitor 27'',Eletrônicos,1800,2,Roberta Santos,25,Masculino
+114,2024-01-23,Notebook Dell,Eletrônicos,4500,5,Wilson Rodrigues,51,Feminino
+115,2024-12-05,Smartphone Samsung,Eletrônicos,2500,4,Vanessa Oliveira,19,Masculino
+116,2024-10-25,Notebook Dell,Eletrônicos,4500,3,Wilson Rodrigues,25,Masculino
+117,2024-10-07,Cadeira Gamer,Móveis,1200,3,Ana Souza,21,Masculino
+118,2024-02-15,Relógio Casio,Acessórios,180,4,Carlos Lima,58,Masculino
+119,2024-10-29,Monitor 27'',Eletrônicos,1800,1,Vanessa Oliveira,19,Masculino
+120,2024-07-21,Smart TV LG,Eletrônicos,3200,4,Ana Souza,29,Feminino
+121,2024-02-09,Monitor 27'',Eletrônicos,1800,2,Wilson Rodrigues,52,Feminino
+122,2024-11-29,Teclado Mecânico,Acessórios,350,3,Ana Souza,24,Masculino
+123,2024-06-24,Cadeira Gamer,Móveis,1200,4,Fernanda Alves,32,Feminino
+124,2024-02-21,Fone de Ouvido JBL,Acessórios,200,2,Paulo Mendes,22,Feminino
+125,2024-09-06,Mochila Nike,Moda,150,2,Carlos Lima,46,Feminino
+126,2024-12-19,Smartphone Samsung,Eletrônicos,2500,4,Vanessa Oliveira,50,Feminino
+127,2024-09-08,Fone de Ouvido JBL,Acessórios,200,1,Roberta Santos,45,Masculino
+128,2024-08-24,Smart TV LG,Eletrônicos,3200,1,Mariana Costa,47,Feminino
+129,2024-06-15,Cadeira Gamer,Móveis,1200,2,Wilson Rodrigues,46,Masculino
+130,2024-06-23,Smart TV LG,Eletrônicos,3200,3,Roberta Santos,30,Masculino
+131,2024-04-20,Tênis Adidas,Moda,300,1,Fernanda Alves,59,Masculino
+132,2024-12-15,Fone de Ouvido JBL,Acessórios,200,1,Fernanda Alves,41,Masculino
+133,2024-03-29,Cadeira Gamer,Móveis,1200,3,Vanessa Oliveira,33,Masculino
+134,2024-07-13,Notebook Dell,Eletrônicos,4500,3,Fernanda Alves,56,Masculino
+135,2024-09-24,Mochila Nike,Moda,150,1,Mariana Costa,39,Masculino
+136,2024-11-06,Mochila Nike,Moda,150,3,Ana Souza,42,Masculino
+137,2024-03-12,Smartphone Samsung,Eletrônicos,2500,2,Carlos Lima,42,Feminino
+138,2024-08-16,Tênis Adidas,Moda,300,5,Carlos Lima,34,Masculino
+139,2024-01-14,Notebook Dell,Eletrônicos,4500,1,Ana Souza,24,Feminino
+140,2024-03-26,Smart TV LG,Eletrônicos,3200,1,Thiago Pereira,21,Masculino
+141,2024-09-05,Cadeira Gamer,Móveis,1200,4,Fernanda Alves,55,Masculino
+142,2024-01-10,Monitor 27'',Eletrônicos,1800,4,José Silva,50,Feminino
+143,2024-10-30,Smart TV LG,Eletrônicos,3200,4,Carlos Lima,51,Feminino
+144,2024-08-20,Mochila Nike,Moda,150,3,Carlos Lima,41,Masculino
+145,2024-12-10,Smart TV LG,Eletrônicos,3200,3,Mariana Costa,28,Masculino
+146,2024-06-28,Smartphone Samsung,Eletrônicos,2500,2,Roberta Santos,43,Masculino
+147,2024-11-09,Notebook Dell,Eletrônicos,4500,4,Thiago Pereira,32,Masculino
+148,2024-02-06,Smartphone Samsung,Eletrônicos,2500,1,Roberta Santos,58,Masculino
+149,2024-12-15,Tênis Adidas,Moda,300,5,Mariana Costa,57,Masculino
+150,2024-05-23,Relógio Casio,Acessórios,180,2,Roberta Santos,35,Masculino
+151,2024-06-20,Relógio Casio,Acessórios,180,5,Vanessa Oliveira,32,Masculino
+152,2024-05-12,Smartphone Samsung,Eletrônicos,2500,1,Carlos Lima,18,Masculino
+153,2024-01-31,Tênis Adidas,Moda,300,1,Roberta Santos,23,Feminino
+154,2024-10-07,Notebook Dell,Eletrônicos,4500,3,Mariana Costa,20,Masculino
+155,2024-09-20,Tênis Adidas,Moda,300,5,Fernanda Alves,43,Masculino
+156,2024-10-21,Teclado Mecânico,Acessórios,350,3,Ana Souza,35,Masculino
+157,2024-01-14,Smart TV LG,Eletrônicos,3200,5,Wilson Rodrigues,32,Masculino
+158,2024-01-25,Fone de Ouvido JBL,Acessórios,200,3,Paulo Mendes,47,Masculino
+159,2024-10-16,Mochila Nike,Moda,150,2,Mariana Costa,37,Masculino
+160,2024-10-22,Monitor 27'',Eletrônicos,1800,5,José Silva,52,Feminino
+161,2024-11-03,Cadeira Gamer,Móveis,1200,2,Fernanda Alves,55,Feminino
+162,2024-03-28,Teclado Mecânico,Acessórios,350,1,Thiago Pereira,24,Feminino
+163,2024-01-17,Teclado Mecânico,Acessórios,350,4,Mariana Costa,51,Feminino
+164,2024-07-31,Mochila Nike,Moda,150,2,Thiago Pereira,52,Feminino
+165,2024-08-12,Smartphone Samsung,Eletrônicos,2500,2,Vanessa Oliveira,55,Feminino
+166,2024-04-01,Fone de Ouvido JBL,Acessórios,200,2,Thiago Pereira,32,Feminino
+167,2024-10-14,Smartphone Samsung,Eletrônicos,2500,3,Roberta Santos,42,Masculino
+168,2024-07-05,Teclado Mecânico,Acessórios,350,5,Fernanda Alves,39,Masculino
+169,2024-01-02,Teclado Mecânico,Acessórios,350,5,Carlos Lima,38,Masculino
+170,2024-07-30,Teclado Mecânico,Acessórios,350,4,Thiago Pereira,44,Masculino
+171,2024-01-02,Notebook Dell,Eletrônicos,4500,3,Paulo Mendes,27,Masculino
+172,2024-01-24,Teclado Mecânico,Acessórios,350,3,Fernanda Alves,30,Feminino
+173,2024-05-28,Relógio Casio,Acessórios,180,5,Wilson Rodrigues,58,Feminino
+174,2024-12-16,Cadeira Gamer,Móveis,1200,1,Roberta Santos,19,Feminino
+175,2024-11-03,Notebook Dell,Eletrônicos,4500,3,José Silva,29,Masculino
+176,2024-09-14,Tênis Adidas,Moda,300,5,Carlos Lima,27,Masculino
+177,2024-07-18,Fone de Ouvido JBL,Acessórios,200,1,José Silva,54,Feminino
+178,2024-08-08,Notebook Dell,Eletrônicos,4500,1,Ana Souza,45,Masculino
+179,2024-03-16,Teclado Mecânico,Acessórios,350,1,Thiago Pereira,59,Feminino
+180,2024-12-02,Fone de Ouvido JBL,Acessórios,200,3,Carlos Lima,48,Masculino
+181,2024-05-31,Teclado Mecânico,Acessórios,350,5,Fernanda Alves,19,Masculino
+182,2024-12-29,Tênis Adidas,Moda,300,1,Thiago Pereira,43,Feminino
+183,2024-12-30,Monitor 27'',Eletrônicos,1800,2,Carlos Lima,22,Masculino
+184,2024-04-22,Notebook Dell,Eletrônicos,4500,3,Mariana Costa,19,Feminino
+185,2024-01-28,Smart TV LG,Eletrônicos,3200,5,Carlos Lima,20,Masculino
+186,2024-04-29,Tênis Adidas,Moda,300,5,Thiago Pereira,57,Feminino
+187,2024-06-08,Mochila Nike,Moda,150,2,Vanessa Oliveira,28,Feminino
+188,2024-07-12,Fone de Ouvido JBL,Acessórios,200,4,José Silva,37,Masculino
+189,2024-04-23,Cadeira Gamer,Móveis,1200,2,Thiago Pereira,30,Masculino
+190,2024-05-20,Monitor 27'',Eletrônicos,1800,5,Wilson Rodrigues,41,Masculino
+191,2024-05-21,Cadeira Gamer,Móveis,1200,3,Mariana Costa,39,Masculino
+192,2024-04-28,Mochila Nike,Moda,150,1,José Silva,30,Feminino
+193,2024-12-25,Smartphone Samsung,Eletrônicos,2500,1,Paulo Mendes,45,Feminino
+194,2024-09-16,Relógio Casio,Acessórios,180,2,Fernanda Alves,18,Masculino
+195,2024-09-14,Smart TV LG,Eletrônicos,3200,5,Ana Souza,36,Masculino
+196,2024-11-17,Relógio Casio,Acessórios,180,3,Wilson Rodrigues,22,Feminino
+197,2024-08-12,Monitor 27'',Eletrônicos,1800,2,Wilson Rodrigues,25,Feminino
+198,2024-05-04,Monitor 27'',Eletrônicos,1800,3,Wilson Rodrigues,58,Masculino
+199,2024-04-30,Tênis Adidas,Moda,300,1,Fernanda Alves,24,Masculino
+200,2024-11-26,Relógio Casio,Acessórios,180,1,Thiago Pereira,37,Feminino
+201,2024-07-17,Cadeira Gamer,Móveis,1200,4,Wilson Rodrigues,43,Masculino
+202,2024-06-24,Monitor 27'',Eletrônicos,1800,5,Wilson Rodrigues,30,Feminino
+203,2024-07-14,Cadeira Gamer,Móveis,1200,3,Vanessa Oliveira,41,Masculino
+204,2024-04-18,Tênis Adidas,Moda,300,3,Vanessa Oliveira,48,Feminino
+205,2024-04-07,Cadeira Gamer,Móveis,1200,5,Fernanda Alves,36,Masculino
+206,2024-01-11,Smart TV LG,Eletrônicos,3200,4,Carlos Lima,19,Masculino
+207,2024-12-16,Monitor 27'',Eletrônicos,1800,1,Paulo Mendes,24,Masculino
+208,2024-10-19,Smartphone Samsung,Eletrônicos,2500,4,Fernanda Alves,43,Feminino
+209,2024-02-03,Cadeira Gamer,Móveis,1200,3,Carlos Lima,56,Masculino
+210,2024-11-17,Relógio Casio,Acessórios,180,3,Thiago Pereira,26,Feminino
+211,2024-04-25,Smartphone Samsung,Eletrônicos,2500,5,Roberta Santos,22,Feminino
+212,2024-04-07,Notebook Dell,Eletrônicos,4500,1,Wilson Rodrigues,28,Feminino
+213,2024-02-19,Relógio Casio,Acessórios,180,4,Ana Souza,49,Feminino
+214,2024-01-28,Cadeira Gamer,Móveis,1200,5,Paulo Mendes,40,Feminino
+215,2024-01-05,Smartphone Samsung,Eletrônicos,2500,2,José Silva,25,Feminino
+216,2024-11-16,Relógio Casio,Acessórios,180,4,José Silva,39,Feminino
+217,2024-05-18,Smart TV LG,Eletrônicos,3200,3,Roberta Santos,22,Feminino
+218,2024-02-01,Tênis Adidas,Moda,300,5,Vanessa Oliveira,40,Masculino
+219,2024-06-06,Notebook Dell,Eletrônicos,4500,5,Thiago Pereira,24,Feminino
+220,2024-11-05,Smartphone Samsung,Eletrônicos,2500,3,Fernanda Alves,18,Masculino
+221,2024-09-13,Cadeira Gamer,Móveis,1200,5,Vanessa Oliveira,26,Masculino
+222,2024-02-17,Cadeira Gamer,Móveis,1200,2,Wilson Rodrigues,41,Feminino
+223,2024-10-29,Smartphone Samsung,Eletrônicos,2500,2,Vanessa Oliveira,24,Feminino
+224,2024-12-27,Relógio Casio,Acessórios,180,2,Carlos Lima,39,Masculino
+225,2024-10-13,Smart TV LG,Eletrônicos,3200,4,Roberta Santos,52,Feminino
+226,2024-12-04,Smartphone Samsung,Eletrônicos,2500,1,Paulo Mendes,57,Feminino
+227,2024-03-28,Cadeira Gamer,Móveis,1200,2,Fernanda Alves,26,Feminino
+228,2024-02-24,Tênis Adidas,Moda,300,5,Vanessa Oliveira,55,Feminino
+229,2024-11-16,Smartphone Samsung,Eletrônicos,2500,4,Ana Souza,47,Masculino
+230,2024-11-12,Tênis Adidas,Moda,300,5,Paulo Mendes,41,Feminino
+231,2024-07-22,Cadeira Gamer,Móveis,1200,3,Thiago Pereira,27,Feminino
+232,2024-01-04,Fone de Ouvido JBL,Acessórios,200,4,Vanessa Oliveira,39,Feminino
+233,2024-05-30,Notebook Dell,Eletrônicos,4500,5,Mariana Costa,49,Masculino
+234,2024-10-13,Mochila Nike,Moda,150,2,José Silva,47,Masculino
+235,2024-06-12,Cadeira Gamer,Móveis,1200,1,Carlos Lima,46,Feminino
+236,2024-10-05,Smartphone Samsung,Eletrônicos,2500,4,Mariana Costa,43,Masculino
+237,2024-07-09,Monitor 27'',Eletrônicos,1800,3,Ana Souza,39,Feminino
+238,2024-02-04,Smartphone Samsung,Eletrônicos,2500,5,Paulo Mendes,20,Masculino
+239,2024-02-07,Tênis Adidas,Moda,300,5,Wilson Rodrigues,42,Masculino
+240,2024-02-12,Smart TV LG,Eletrônicos,3200,4,Vanessa Oliveira,21,Feminino
+241,2024-11-30,Fone de Ouvido JBL,Acessórios,200,4,José Silva,42,Feminino
+242,2024-04-10,Tênis Adidas,Moda,300,3,Ana Souza,52,Feminino
+243,2024-09-08,Notebook Dell,Eletrônicos,4500,3,Ana Souza,57,Feminino
+244,2024-12-30,Relógio Casio,Acessórios,180,5,Fernanda Alves,29,Feminino
+245,2024-09-27,Smart TV LG,Eletrônicos,3200,2,Wilson Rodrigues,19,Masculino
+246,2024-11-06,Smartphone Samsung,Eletrônicos,2500,1,Thiago Pereira,30,Masculino
+247,2024-10-18,Cadeira Gamer,Móveis,1200,1,José Silva,30,Feminino
+248,2024-07-04,Smart TV LG,Eletrônicos,3200,3,José Silva,35,Masculino
+249,2024-03-16,Smartphone Samsung,Eletrônicos,2500,1,Roberta Santos,40,Masculino
+250,2024-12-04,Fone de Ouvido JBL,Acessórios,200,2,Fernanda Alves,37,Feminino
+251,2024-09-26,Smartphone Samsung,Eletrônicos,2500,3,Thiago Pereira,30,Masculino
+252,2024-08-05,Relógio Casio,Acessórios,180,1,Thiago Pereira,30,Masculino
+253,2024-09-05,Teclado Mecânico,Acessórios,350,5,Mariana Costa,31,Feminino
+254,2024-03-06,Mochila Nike,Moda,150,3,José Silva,22,Feminino
+255,2024-01-16,Tênis Adidas,Moda,300,4,Roberta Santos,22,Feminino
+256,2024-08-01,Fone de Ouvido JBL,Acessórios,200,2,José Silva,23,Masculino
+257,2024-06-03,Cadeira Gamer,Móveis,1200,2,Wilson Rodrigues,32,Masculino
+258,2024-03-21,Monitor 27'',Eletrônicos,1800,3,Wilson Rodrigues,57,Feminino
+259,2024-06-09,Cadeira Gamer,Móveis,1200,2,Wilson Rodrigues,55,Masculino
+260,2024-05-03,Notebook Dell,Eletrônicos,4500,5,Thiago Pereira,37,Feminino
+261,2024-07-06,Smart TV LG,Eletrônicos,3200,1,Fernanda Alves,36,Masculino
+262,2024-09-30,Cadeira Gamer,Móveis,1200,2,Mariana Costa,28,Feminino
+263,2024-05-25,Monitor 27'',Eletrônicos,1800,4,Ana Souza,41,Masculino
+264,2024-06-21,Smartphone Samsung,Eletrônicos,2500,5,Wilson Rodrigues,60,Masculino
+265,2024-08-19,Fone de Ouvido JBL,Acessórios,200,5,Fernanda Alves,18,Masculino
+266,2024-05-05,Relógio Casio,Acessórios,180,1,Fernanda Alves,39,Feminino
+267,2024-12-15,Fone de Ouvido JBL,Acessórios,200,1,Thiago Pereira,34,Masculino
+268,2024-11-20,Teclado Mecânico,Acessórios,350,4,Wilson Rodrigues,55,Masculino
+269,2024-02-10,Mochila Nike,Moda,150,5,Wilson Rodrigues,51,Feminino
+270,2024-12-19,Fone de Ouvido JBL,Acessórios,200,2,Thiago Pereira,33,Feminino
+271,2024-07-27,Fone de Ouvido JBL,Acessórios,200,5,José Silva,43,Feminino
+272,2024-12-08,Mochila Nike,Moda,150,3,Paulo Mendes,58,Feminino
+273,2024-07-31,Teclado Mecânico,Acessórios,350,2,Thiago Pereira,31,Feminino
+274,2024-07-25,Notebook Dell,Eletrônicos,4500,3,Roberta Santos,53,Masculino
+275,2024-12-08,Mochila Nike,Moda,150,3,Ana Souza,44,Feminino
+276,2024-04-07,Mochila Nike,Moda,150,1,Carlos Lima,22,Feminino
+277,2024-08-02,Monitor 27'',Eletrônicos,1800,1,Vanessa Oliveira,42,Feminino
+278,2024-03-31,Tênis Adidas,Moda,300,3,Vanessa Oliveira,30,Masculino
+279,2024-04-16,Fone de Ouvido JBL,Acessórios,200,4,Wilson Rodrigues,41,Masculino
+280,2024-11-15,Mochila Nike,Moda,150,4,Mariana Costa,28,Masculino
+281,2024-11-21,Monitor 27'',Eletrônicos,1800,4,José Silva,33,Masculino
+282,2024-07-09,Monitor 27'',Eletrônicos,1800,5,Ana Souza,58,Feminino
+283,2024-01-29,Smart TV LG,Eletrônicos,3200,4,Carlos Lima,28,Masculino
+284,2024-09-25,Tênis Adidas,Moda,300,2,Ana Souza,47,Masculino
+285,2024-02-05,Smart TV LG,Eletrônicos,3200,5,Mariana Costa,18,Feminino
+286,2024-01-06,Smartphone Samsung,Eletrônicos,2500,4,Paulo Mendes,35,Feminino
+287,2024-11-30,Tênis Adidas,Moda,300,4,Carlos Lima,59,Masculino
+288,2024-01-13,Relógio Casio,Acessórios,180,5,Mariana Costa,37,Masculino
+289,2024-08-17,Cadeira Gamer,Móveis,1200,1,Carlos Lima,51,Feminino
+290,2024-08-24,Smartphone Samsung,Eletrônicos,2500,5,Mariana Costa,40,Masculino
+291,2024-08-18,Teclado Mecânico,Acessórios,350,1,Vanessa Oliveira,29,Masculino
+292,2024-03-13,Relógio Casio,Acessórios,180,3,Carlos Lima,29,Masculino
+293,2024-07-27,Mochila Nike,Moda,150,5,Thiago Pereira,56,Masculino
+294,2024-07-22,Cadeira Gamer,Móveis,1200,3,Paulo Mendes,32,Feminino
+295,2024-06-19,Tênis Adidas,Moda,300,4,Wilson Rodrigues,41,Masculino
+296,2024-04-20,Smartphone Samsung,Eletrônicos,2500,5,José Silva,37,Masculino
+297,2024-06-16,Smartphone Samsung,Eletrônicos,2500,5,Roberta Santos,33,Feminino
+298,2024-09-11,Fone de Ouvido JBL,Acessórios,200,2,Thiago Pereira,52,Feminino
+299,2024-11-29,Tênis Adidas,Moda,300,2,José Silva,21,Feminino
+300,2024-02-11,Tênis Adidas,Moda,300,5,Roberta Santos,41,Feminino
+301,2024-05-31,Relógio Casio,Acessórios,180,1,Thiago Pereira,33,Masculino
+302,2024-05-05,Tênis Adidas,Moda,300,3,Wilson Rodrigues,59,Feminino
+303,2024-07-18,Relógio Casio,Acessórios,180,1,Ana Souza,37,Feminino
+304,2024-12-24,Mochila Nike,Moda,150,2,Fernanda Alves,27,Masculino
+305,2024-08-21,Smart TV LG,Eletrônicos,3200,3,Paulo Mendes,43,Feminino
+306,2024-11-29,Teclado Mecânico,Acessórios,350,3,Mariana Costa,59,Masculino
+307,2024-11-20,Tênis Adidas,Moda,300,5,José Silva,44,Masculino
+308,2024-11-03,Smart TV LG,Eletrônicos,3200,1,Vanessa Oliveira,25,Masculino
+309,2024-08-01,Smartphone Samsung,Eletrônicos,2500,1,Carlos Lima,47,Masculino
+310,2024-12-07,Teclado Mecânico,Acessórios,350,5,Paulo Mendes,36,Masculino
+311,2024-03-16,Relógio Casio,Acessórios,180,1,José Silva,26,Masculino
+312,2024-10-18,Smart TV LG,Eletrônicos,3200,2,Roberta Santos,36,Masculino
+313,2024-01-25,Teclado Mecânico,Acessórios,350,3,Wilson Rodrigues,51,Masculino
+314,2024-06-03,Monitor 27'',Eletrônicos,1800,5,Paulo Mendes,38,Masculino
+315,2024-09-27,Tênis Adidas,Moda,300,2,Paulo Mendes,56,Feminino
+316,2024-06-04,Monitor 27'',Eletrônicos,1800,5,Carlos Lima,43,Feminino
+317,2024-04-21,Fone de Ouvido JBL,Acessórios,200,4,Carlos Lima,55,Feminino
+318,2024-09-27,Smart TV LG,Eletrônicos,3200,1,Wilson Rodrigues,54,Masculino
+319,2024-09-27,Fone de Ouvido JBL,Acessórios,200,3,Paulo Mendes,56,Masculino
+320,2024-10-05,Teclado Mecânico,Acessórios,350,3,Carlos Lima,45,Masculino
+321,2024-11-04,Monitor 27'',Eletrônicos,1800,3,Carlos Lima,37,Masculino
+322,2024-08-26,Cadeira Gamer,Móveis,1200,3,Fernanda Alves,56,Masculino
+323,2024-02-28,Monitor 27'',Eletrônicos,1800,1,Fernanda Alves,52,Masculino
+324,2024-12-13,Cadeira Gamer,Móveis,1200,3,Paulo Mendes,52,Feminino
+325,2024-09-18,Notebook Dell,Eletrônicos,4500,1,Thiago Pereira,41,Masculino
+326,2024-05-01,Mochila Nike,Moda,150,5,Paulo Mendes,56,Feminino
+327,2024-05-01,Monitor 27'',Eletrônicos,1800,1,Roberta Santos,23,Feminino
+328,2024-10-24,Notebook Dell,Eletrônicos,4500,5,Mariana Costa,35,Feminino
+329,2024-09-05,Fone de Ouvido JBL,Acessórios,200,5,Roberta Santos,56,Masculino
+330,2024-11-21,Cadeira Gamer,Móveis,1200,5,Mariana Costa,39,Masculino
+331,2024-12-28,Mochila Nike,Moda,150,2,Carlos Lima,34,Masculino
+332,2024-04-28,Tênis Adidas,Moda,300,5,Ana Souza,23,Feminino
+333,2024-07-08,Relógio Casio,Acessórios,180,2,Wilson Rodrigues,41,Feminino
+334,2024-12-08,Monitor 27'',Eletrônicos,1800,5,Wilson Rodrigues,50,Masculino
+335,2024-03-22,Relógio Casio,Acessórios,180,2,José Silva,19,Masculino
+336,2024-07-11,Notebook Dell,Eletrônicos,4500,2,Thiago Pereira,55,Masculino
+337,2024-12-25,Teclado Mecânico,Acessórios,350,4,Roberta Santos,42,Feminino
+338,2024-08-29,Smart TV LG,Eletrônicos,3200,4,Vanessa Oliveira,51,Feminino
+339,2024-08-13,Tênis Adidas,Moda,300,4,Ana Souza,19,Masculino
+340,2024-04-08,Monitor 27'',Eletrônicos,1800,4,Fernanda Alves,57,Masculino
+341,2024-05-24,Relógio Casio,Acessórios,180,2,Ana Souza,40,Masculino
+342,2024-06-15,Smart TV LG,Eletrônicos,3200,2,Mariana Costa,36,Feminino
+343,2024-10-01,Monitor 27'',Eletrônicos,1800,4,Wilson Rodrigues,36,Feminino
+344,2024-02-03,Monitor 27'',Eletrônicos,1800,2,Carlos Lima,39,Masculino
+345,2024-11-19,Cadeira Gamer,Móveis,1200,5,José Silva,18,Feminino
+346,2024-12-03,Smartphone Samsung,Eletrônicos,2500,3,Fernanda Alves,36,Masculino
+347,2024-03-23,Cadeira Gamer,Móveis,1200,4,Mariana Costa,54,Feminino
+348,2024-05-22,Smartphone Samsung,Eletrônicos,2500,5,José Silva,53,Masculino
+349,2024-02-14,Fone de Ouvido JBL,Acessórios,200,2,Ana Souza,52,Masculino
+350,2024-02-19,Cadeira Gamer,Móveis,1200,5,Paulo Mendes,53,Masculino
+351,2024-04-08,Relógio Casio,Acessórios,180,2,Carlos Lima,29,Masculino
+352,2024-05-13,Tênis Adidas,Moda,300,1,Mariana Costa,53,Feminino
+353,2024-08-27,Tênis Adidas,Moda,300,4,Paulo Mendes,42,Masculino
+354,2024-10-26,Fone de Ouvido JBL,Acessórios,200,1,Vanessa Oliveira,32,Feminino
+355,2024-07-21,Tênis Adidas,Moda,300,3,Paulo Mendes,25,Masculino
+356,2024-03-27,Tênis Adidas,Moda,300,1,Wilson Rodrigues,30,Feminino
+357,2024-11-24,Smartphone Samsung,Eletrônicos,2500,3,Wilson Rodrigues,40,Masculino
+358,2024-05-24,Fone de Ouvido JBL,Acessórios,200,4,Vanessa Oliveira,18,Masculino
+359,2024-06-27,Notebook Dell,Eletrônicos,4500,4,Ana Souza,37,Feminino
+360,2024-02-07,Tênis Adidas,Moda,300,3,Mariana Costa,52,Feminino
+361,2024-03-01,Smart TV LG,Eletrônicos,3200,3,José Silva,24,Feminino
+362,2024-10-30,Relógio Casio,Acessórios,180,5,Ana Souza,35,Feminino
+363,2024-12-16,Smart TV LG,Eletrônicos,3200,1,Mariana Costa,58,Masculino
+364,2024-03-15,Mochila Nike,Moda,150,5,Paulo Mendes,44,Masculino
+365,2024-03-25,Relógio Casio,Acessórios,180,1,Thiago Pereira,59,Feminino
+366,2024-12-07,Mochila Nike,Moda,150,2,José Silva,51,Feminino
+367,2024-01-19,Relógio Casio,Acessórios,180,5,José Silva,28,Feminino
+368,2024-11-10,Relógio Casio,Acessórios,180,2,Roberta Santos,19,Feminino
+369,2024-01-29,Teclado Mecânico,Acessórios,350,2,Fernanda Alves,34,Feminino
+370,2024-04-26,Mochila Nike,Moda,150,5,Paulo Mendes,33,Feminino
+371,2024-03-09,Tênis Adidas,Moda,300,5,Roberta Santos,52,Masculino
+372,2024-06-15,Monitor 27'',Eletrônicos,1800,4,Vanessa Oliveira,60,Masculino
+373,2024-03-25,Smartphone Samsung,Eletrônicos,2500,2,Carlos Lima,44,Masculino
+374,2024-05-30,Mochila Nike,Moda,150,3,Mariana Costa,42,Feminino
+375,2024-03-09,Monitor 27'',Eletrônicos,1800,4,Mariana Costa,50,Feminino
+376,2024-01-23,Tênis Adidas,Moda,300,1,José Silva,37,Masculino
+377,2024-03-04,Notebook Dell,Eletrônicos,4500,2,Carlos Lima,22,Masculino
+378,2024-06-09,Relógio Casio,Acessórios,180,2,Mariana Costa,60,Feminino
+379,2024-10-31,Notebook Dell,Eletrônicos,4500,2,José Silva,19,Feminino
+380,2024-11-10,Monitor 27'',Eletrônicos,1800,2,Thiago Pereira,35,Feminino
+381,2024-11-05,Tênis Adidas,Moda,300,4,Roberta Santos,30,Feminino
+382,2024-07-22,Cadeira Gamer,Móveis,1200,5,Mariana Costa,58,Masculino
+383,2024-07-25,Relógio Casio,Acessórios,180,1,Wilson Rodrigues,28,Feminino
+384,2024-10-04,Relógio Casio,Acessórios,180,4,Mariana Costa,48,Masculino
+385,2024-07-12,Tênis Adidas,Moda,300,4,Ana Souza,21,Feminino
+386,2024-12-16,Relógio Casio,Acessórios,180,4,Wilson Rodrigues,47,Masculino
+387,2024-11-12,Notebook Dell,Eletrônicos,4500,2,Fernanda Alves,53,Masculino
+388,2024-10-08,Teclado Mecânico,Acessórios,350,3,Mariana Costa,53,Masculino
+389,2024-09-20,Fone de Ouvido JBL,Acessórios,200,4,Roberta Santos,32,Feminino
+390,2024-11-25,Smartphone Samsung,Eletrônicos,2500,1,Carlos Lima,24,Masculino
+391,2024-10-14,Teclado Mecânico,Acessórios,350,5,Paulo Mendes,53,Masculino
+392,2024-11-17,Teclado Mecânico,Acessórios,350,5,Fernanda Alves,20,Masculino
+393,2024-11-17,Cadeira Gamer,Móveis,1200,1,Mariana Costa,32,Feminino
+394,2024-05-14,Tênis Adidas,Moda,300,5,José Silva,48,Masculino
+395,2024-06-01,Smartphone Samsung,Eletrônicos,2500,2,Fernanda Alves,43,Masculino
+396,2024-03-14,Fone de Ouvido JBL,Acessórios,200,1,Ana Souza,18,Masculino
+397,2024-08-28,Relógio Casio,Acessórios,180,2,Wilson Rodrigues,47,Masculino
+398,2024-05-21,Monitor 27'',Eletrônicos,1800,2,Wilson Rodrigues,49,Masculino
+399,2024-06-10,Relógio Casio,Acessórios,180,5,Wilson Rodrigues,20,Masculino
+400,2024-07-08,Fone de Ouvido JBL,Acessórios,200,2,Fernanda Alves,47,Feminino
+401,2024-08-09,Fone de Ouvido JBL,Acessórios,200,1,José Silva,59,Feminino
+402,2024-12-03,Notebook Dell,Eletrônicos,4500,1,Roberta Santos,47,Feminino
+403,2024-10-18,Notebook Dell,Eletrônicos,4500,1,Fernanda Alves,24,Feminino
+404,2024-10-28,Notebook Dell,Eletrônicos,4500,3,Vanessa Oliveira,47,Feminino
+405,2024-07-01,Teclado Mecânico,Acessórios,350,4,Paulo Mendes,56,Feminino
+406,2024-03-12,Fone de Ouvido JBL,Acessórios,200,5,Paulo Mendes,38,Feminino
+407,2024-12-02,Smartphone Samsung,Eletrônicos,2500,1,Carlos Lima,38,Feminino
+408,2024-01-20,Tênis Adidas,Moda,300,4,Wilson Rodrigues,31,Feminino
+409,2024-05-10,Notebook Dell,Eletrônicos,4500,2,Ana Souza,51,Feminino
+410,2024-10-25,Smart TV LG,Eletrônicos,3200,2,Paulo Mendes,38,Masculino
+411,2024-11-23,Cadeira Gamer,Móveis,1200,4,Paulo Mendes,35,Feminino
+412,2024-08-15,Tênis Adidas,Moda,300,1,Paulo Mendes,33,Feminino
+413,2024-05-15,Mochila Nike,Moda,150,4,Carlos Lima,20,Masculino
+414,2024-11-06,Teclado Mecânico,Acessórios,350,4,Ana Souza,20,Feminino
+415,2024-03-14,Tênis Adidas,Moda,300,3,Mariana Costa,23,Masculino
+416,2024-11-07,Notebook Dell,Eletrônicos,4500,1,Mariana Costa,29,Masculino
+417,2024-07-16,Mochila Nike,Moda,150,3,Vanessa Oliveira,23,Feminino
+418,2024-08-20,Cadeira Gamer,Móveis,1200,2,Wilson Rodrigues,52,Masculino
+419,2024-11-24,Relógio Casio,Acessórios,180,5,José Silva,58,Masculino
+420,2024-01-06,Mochila Nike,Moda,150,2,Paulo Mendes,31,Masculino
+421,2024-02-29,Smart TV LG,Eletrônicos,3200,2,Wilson Rodrigues,55,Masculino
+422,2024-01-10,Mochila Nike,Moda,150,5,Carlos Lima,55,Feminino
+423,2024-11-22,Tênis Adidas,Moda,300,2,José Silva,42,Masculino
+424,2024-09-15,Fone de Ouvido JBL,Acessórios,200,5,Fernanda Alves,45,Masculino
+425,2024-03-18,Smart TV LG,Eletrônicos,3200,3,José Silva,35,Feminino
+426,2024-02-18,Tênis Adidas,Moda,300,2,Paulo Mendes,55,Masculino
+427,2024-10-09,Smartphone Samsung,Eletrônicos,2500,5,Thiago Pereira,31,Feminino
+428,2024-04-20,Tênis Adidas,Moda,300,2,Thiago Pereira,19,Masculino
+429,2024-07-24,Mochila Nike,Moda,150,3,Ana Souza,21,Masculino
+430,2024-09-01,Mochila Nike,Moda,150,1,Wilson Rodrigues,27,Masculino
+431,2024-09-29,Relógio Casio,Acessórios,180,3,Ana Souza,35,Feminino
+432,2024-05-30,Smart TV LG,Eletrônicos,3200,1,Carlos Lima,24,Masculino
+433,2024-01-05,Teclado Mecânico,Acessórios,350,4,Mariana Costa,43,Masculino
+434,2024-07-31,Relógio Casio,Acessórios,180,3,José Silva,30,Masculino
+435,2024-08-06,Teclado Mecânico,Acessórios,350,1,Roberta Santos,37,Masculino
+436,2024-03-12,Fone de Ouvido JBL,Acessórios,200,1,Vanessa Oliveira,38,Feminino
+437,2024-02-06,Smartphone Samsung,Eletrônicos,2500,4,Vanessa Oliveira,37,Feminino
+438,2024-04-24,Smartphone Samsung,Eletrônicos,2500,2,Fernanda Alves,59,Feminino
+439,2024-04-26,Mochila Nike,Moda,150,2,Mariana Costa,41,Feminino
+440,2024-12-30,Mochila Nike,Moda,150,4,José Silva,58,Masculino
+441,2024-05-22,Notebook Dell,Eletrônicos,4500,4,Wilson Rodrigues,22,Feminino
+442,2024-01-29,Smartphone Samsung,Eletrônicos,2500,5,Thiago Pereira,44,Masculino
+443,2024-01-30,Monitor 27'',Eletrônicos,1800,3,Fernanda Alves,19,Feminino
+444,2024-09-23,Cadeira Gamer,Móveis,1200,2,Vanessa Oliveira,42,Masculino
+445,2024-09-26,Smart TV LG,Eletrônicos,3200,3,Roberta Santos,26,Feminino
+446,2024-09-01,Notebook Dell,Eletrônicos,4500,3,Paulo Mendes,23,Masculino
+447,2024-09-25,Cadeira Gamer,Móveis,1200,3,Ana Souza,41,Feminino
+448,2024-11-18,Relógio Casio,Acessórios,180,2,Vanessa Oliveira,28,Feminino
+449,2024-06-23,Notebook Dell,Eletrônicos,4500,2,Thiago Pereira,19,Masculino
+450,2024-07-03,Smartphone Samsung,Eletrônicos,2500,5,Fernanda Alves,58,Feminino
+451,2024-04-17,Smartphone Samsung,Eletrônicos,2500,1,Ana Souza,41,Masculino
+452,2024-06-22,Teclado Mecânico,Acessórios,350,2,Wilson Rodrigues,35,Feminino
+453,2024-04-10,Mochila Nike,Moda,150,2,Paulo Mendes,37,Feminino
+454,2024-10-03,Smart TV LG,Eletrônicos,3200,4,Mariana Costa,18,Masculino
+455,2024-09-18,Teclado Mecânico,Acessórios,350,3,Thiago Pereira,49,Feminino
+456,2024-04-24,Teclado Mecânico,Acessórios,350,2,Thiago Pereira,29,Masculino
+457,2024-12-23,Tênis Adidas,Moda,300,3,Ana Souza,33,Feminino
+458,2024-04-21,Tênis Adidas,Moda,300,2,Paulo Mendes,42,Feminino
+459,2024-01-12,Tênis Adidas,Moda,300,3,Fernanda Alves,48,Masculino
+460,2024-06-11,Smartphone Samsung,Eletrônicos,2500,1,Vanessa Oliveira,47,Feminino
+461,2024-04-03,Fone de Ouvido JBL,Acessórios,200,4,Paulo Mendes,24,Masculino
+462,2024-02-03,Fone de Ouvido JBL,Acessórios,200,3,Mariana Costa,33,Feminino
+463,2024-01-04,Smart TV LG,Eletrônicos,3200,3,Vanessa Oliveira,48,Masculino
+464,2024-08-11,Smartphone Samsung,Eletrônicos,2500,3,Ana Souza,31,Masculino
+465,2024-01-19,Mochila Nike,Moda,150,3,Fernanda Alves,28,Feminino
+466,2024-01-28,Tênis Adidas,Moda,300,1,Thiago Pereira,35,Feminino
+467,2024-04-14,Teclado Mecânico,Acessórios,350,4,Roberta Santos,41,Feminino
+468,2024-05-16,Cadeira Gamer,Móveis,1200,4,Wilson Rodrigues,49,Masculino
+469,2024-08-01,Notebook Dell,Eletrônicos,4500,3,Roberta Santos,40,Masculino
+470,2024-10-23,Relógio Casio,Acessórios,180,3,Paulo Mendes,60,Feminino
+471,2024-04-20,Fone de Ouvido JBL,Acessórios,200,5,Carlos Lima,37,Feminino
+472,2024-08-18,Teclado Mecânico,Acessórios,350,1,Fernanda Alves,38,Feminino
+473,2024-11-29,Fone de Ouvido JBL,Acessórios,200,4,Fernanda Alves,22,Feminino
+474,2024-03-06,Notebook Dell,Eletrônicos,4500,3,Roberta Santos,38,Masculino
+475,2024-11-27,Cadeira Gamer,Móveis,1200,3,Vanessa Oliveira,21,Masculino
+476,2024-06-13,Smart TV LG,Eletrônicos,3200,1,Fernanda Alves,47,Masculino
+477,2024-05-31,Mochila Nike,Moda,150,4,José Silva,50,Masculino
+478,2024-11-27,Relógio Casio,Acessórios,180,1,Paulo Mendes,30,Feminino
+479,2024-12-02,Notebook Dell,Eletrônicos,4500,1,Thiago Pereira,48,Feminino
+480,2024-03-10,Cadeira Gamer,Móveis,1200,5,Vanessa Oliveira,44,Masculino
+481,2024-06-02,Smart TV LG,Eletrônicos,3200,2,José Silva,37,Masculino
+482,2024-02-02,Notebook Dell,Eletrônicos,4500,4,Fernanda Alves,40,Feminino
+483,2024-07-04,Smartphone Samsung,Eletrônicos,2500,3,Carlos Lima,55,Masculino
+484,2024-08-14,Relógio Casio,Acessórios,180,4,Vanessa Oliveira,21,Masculino
+485,2024-03-25,Tênis Adidas,Moda,300,2,Carlos Lima,19,Masculino
+486,2024-08-25,Monitor 27'',Eletrônicos,1800,5,Fernanda Alves,51,Feminino
+487,2024-04-30,Smartphone Samsung,Eletrônicos,2500,5,Ana Souza,42,Feminino
+488,2024-04-11,Teclado Mecânico,Acessórios,350,3,Vanessa Oliveira,34,Masculino
+489,2024-05-26,Teclado Mecânico,Acessórios,350,2,José Silva,37,Masculino
+490,2024-05-18,Smartphone Samsung,Eletrônicos,2500,5,Ana Souza,35,Feminino
+491,2024-03-06,Tênis Adidas,Moda,300,4,Ana Souza,42,Feminino
+492,2024-03-09,Monitor 27'',Eletrônicos,1800,4,José Silva,46,Masculino
+493,2024-12-10,Cadeira Gamer,Móveis,1200,2,Vanessa Oliveira,59,Feminino
+494,2024-11-24,Teclado Mecânico,Acessórios,350,2,Wilson Rodrigues,24,Feminino
+495,2024-05-07,Smartphone Samsung,Eletrônicos,2500,4,Ana Souza,18,Feminino
+496,2024-04-07,Smart TV LG,Eletrônicos,3200,4,Fernanda Alves,30,Masculino
+497,2024-11-07,Fone de Ouvido JBL,Acessórios,200,4,Wilson Rodrigues,55,Feminino
+498,2024-03-17,Fone de Ouvido JBL,Acessórios,200,3,Ana Souza,31,Masculino
+499,2024-12-03,Teclado Mecânico,Acessórios,350,4,Fernanda Alves,23,Masculino
+500,2024-01-26,Monitor 27'',Eletrônicos,1800,3,Paulo Mendes,24,Masculino
